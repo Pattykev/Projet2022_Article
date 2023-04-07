@@ -1,0 +1,8 @@
+C:\Users\CSEG\Desktop\Projet2022_Article\Projet2022_Article\bin\Debug\Projet2022_Article.exe
+C:\Users\CSEG\Desktop\Projet2022_Article\Projet2022_Article\bin\Debug\Projet2022_Article.pdb
+C:\Users\CSEG\Desktop\Projet2022_Article\Projet2022_Article\obj\x86\Debug\Projet2022_Article.Form1.resources
+C:\Users\CSEG\Desktop\Projet2022_Article\Projet2022_Article\obj\x86\Debug\Projet2022_Article.Properties.Resources.resources
+C:\Users\CSEG\Desktop\Projet2022_Article\Projet2022_Article\obj\x86\Debug\Projet2022_Article.csproj.GenerateResource.Cache
+C:\Users\CSEG\Desktop\Projet2022_Article\Projet2022_Article\obj\x86\Debug\Projet2022_Article.exe
+C:\Users\CSEG\Desktop\Projet2022_Article\Projet2022_Article\obj\x86\Debug\Projet2022_Article.pdb
+C:\Users\CSEG\Desktop\Projet2022_Article\Projet2022_Article\obj\x86\Debug\Projet2022_Article.csprojResolveAssemblyReference.cache
